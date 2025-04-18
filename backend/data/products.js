@@ -18,11 +18,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://github.com/weissv/hiruvi/blob/96d1add24c50d41444f6ad0eaf15cc9784ef7b0c/800-500x500.jpg?raw=true",
+        url: "https://picsum.photos/500/500?random=39",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
-        url: "https://github.com/weissv/hiruvi/blob/96d1add24c50d41444f6ad0eaf15cc9784ef7b0c/800-500x500.jpg?raw=true",
+        url: "https://picsum.photos/500/500?random=40",
         altText: "Classic Oxford Button-Down Shirt Back View",
       },
     ],
