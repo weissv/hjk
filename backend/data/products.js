@@ -18,11 +18,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://picsum.photos/500/500?random=39",
+        url: "https://imgur.com/8iVqram",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
-        url: "https://picsum.photos/500/500?random=40",
+        url: "https://imgur.com/8iVqram",
         altText: "Classic Oxford Button-Down Shirt Back View",
       },
     ],
