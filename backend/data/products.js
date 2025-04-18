@@ -18,7 +18,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/500w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%201000w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/625w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%201250w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/750w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%201500w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/875w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%201750w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/1000w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%202000w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/1250w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%202500w,%20https://cdn11.bigcommerce.com/s-nw7gte6txe/images/stencil/1500w/products/538/13260/5401_OXFORD_SHIRT_BLACK__97825.1705442469.jpg?c=1%203000w",
+        url: "https://picsum.photos/500/500?random=39",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
